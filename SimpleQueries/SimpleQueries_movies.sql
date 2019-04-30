@@ -4,7 +4,7 @@ WHERE name LIKE 'Disney';
 
 SELECT birthdate
 FROM MOVIESTAR
-WHERE name LIKE 'Jack Nicholson'
+WHERE name LIKE 'Jack Nicholson';
 
 SELECT starname
 FROM STARSIN

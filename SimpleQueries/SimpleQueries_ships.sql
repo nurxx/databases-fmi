@@ -1,4 +1,4 @@
-SELECT class , country
+SELECT class, country
 FROM classes
 WHERE numguns < 10;
 

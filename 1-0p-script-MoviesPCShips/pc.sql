@@ -1,4 +1,4 @@
-
+-----Tables-------
 CREATE TABLE laptop(
  code int NOT NULL PRIMARY KEY, 
  model varchar(4) NOT NULL, 
